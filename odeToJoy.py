@@ -36,7 +36,7 @@ pitch8 = [D4, E4, F4, E4, D4]
 dur8 =   [QN, EN, EN, QN, QN]
 
 # Bar 12
-pitch9 = [C4, D4, REST]
+pitch9 = [C4, D4, G3]
 dur9 =   [QN, QN, HN]
 
 # Phrase
